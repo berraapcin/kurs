@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace efcore.Data 
+namespace efcoreApp.Data 
 {
  public class Ogrenci 
  {
